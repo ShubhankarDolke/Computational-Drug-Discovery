@@ -6,3 +6,4 @@ In my computational drug discovery project, I employed a multi-faceted approach 
 By leveraging data-driven insights, I delved into the intricacies of the disease, employing EDA to unravel patterns and correlations within relevant datasets. Subsequently, machine learning techniques were applied to construct predictive models, facilitating the identification of potential drug candidates.
 
 This project not only showcases my technical prowess in the realms of data analysis and machine learning but also underscores my commitment to contributing to the scientific community. The replication of established scientific methodologies underscores my dedication to precision and thoroughness in the pursuit of groundbreaking solutions to real-world challenges.
+[1] Sliwoski G, Kothiwale S, Meiler J, Lowe EW Jr. Computational methods in drug discovery. Pharmacol Rev. 2013 Dec 31;66(1):334-95. doi: 10.1124/pr.112.007336. PMID: 24381236; PMCID: PMC3880464.
