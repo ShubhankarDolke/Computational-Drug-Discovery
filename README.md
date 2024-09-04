@@ -1,9 +1,9 @@
-# Computational-Drug-Discovery
+# Computational Drug Discovery
 
-**🔍 Computational Drug Discovery.**
+In our Computational Drug Discovery project, we adopted a comprehensive approach that combined Exploratory Data Analysis (EDA), Machine Learning (ML), and predictive modeling to identify potential new drugs for a specific disease. This project was inspired by a published paper [1], and we meticulously replicated the scientific process of drug discovery outlined in the study.
 
-In my computational drug discovery project, I employed a multi-faceted approach utilizing Exploratory Data Analysis (EDA), Machine Learning (ML), and predictive modeling to identify novel drugs for a specific disease. Inspired by a published paper [1] this project is a meticulous replication of the scientific process of drug discovery.
-By leveraging data-driven insights, I delved into the intricacies of the disease, employing EDA to unravel patterns and correlations within relevant datasets. Subsequently, machine learning techniques were applied to construct predictive models, facilitating the identification of potential drug candidates.
+We began by leveraging data-driven insights to understand the complexities of the disease. Through EDA, we explored and analyzed various datasets, identifying patterns and correlations that provided valuable information. This initial step allowed us to uncover critical insights into the disease, which informed our next phase.
 
-This project not only showcases my technical prowess in the realms of data analysis and machine learning but also underscores my commitment to contributing to the scientific community. The replication of established scientific methodologies underscores my dedication to precision and thoroughness in the pursuit of groundbreaking solutions to real-world challenges.
+Next, we applied machine learning techniques to build predictive models. These models were crucial in identifying potential drug candidates by analyzing vast amounts of data and predicting which compounds might be effective against the disease. By doing so, we moved closer to discovering novel therapeutic solutions.
+
 [1] Sliwoski G, Kothiwale S, Meiler J, Lowe EW Jr. Computational methods in drug discovery. Pharmacol Rev. 2013 Dec 31;66(1):334-95. doi: 10.1124/pr.112.007336. PMID: 24381236; PMCID: PMC3880464.
